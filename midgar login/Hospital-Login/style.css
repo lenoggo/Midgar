@@ -1,0 +1,82 @@
+#midgar{
+    background-color:rgba(255,255,255,0.7);
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 700px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+html{
+    background-image: url(images/hospital-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.prompt{
+	font-family: "Prompt", sans-serif
+}
+*{
+	font-family: sans-serif;
+}
+label{
+	font-variant: small-caps;
+	letter-spacing: 2px;
+}
+body{
+	margin-top: 10px;
+	width: 700px;
+  	margin: auto;
+	margin-top: 15px;
+}
+a{
+	color: darkblue;
+}
+.gray{
+	color: gray
+}
+input:hover{
+	background-color:#2b6eb1;
+}
+button{
+	background-color: darkblue;
+	color:white;
+	border-radius: 7px;
+	min-width: 90px;
+	min-height: 35px;
+	padding: 10px;
+	font-size: 18px;
+}
+button:hover{
+	cursor: pointer;
+	opacity: 0.5;
+}
+img{
+	width: 200px;
+	border: 2px solid black;
+	margin: 20px;
+	border-radius: 10px;
+	padding: 10px
+}
+img:hover{
+	border-color: red;
+	cursor: pointer;
+	
+}
+#at{
+	font-size: 25px;
+}
+#form{
+	background: lightblue;
+	border: 3px solid darkblue;
+	border-radius: 23px;
+	padding: 20px;
+	
+}
+a{
+	text-decoration: none;
+}
+.cal{
+	font-family: "Calibri",sans-serif
+}
